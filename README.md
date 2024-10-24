@@ -1,10 +1,10 @@
 # CNS_LAB
 
 ## Student Information
-- **Name:** Virendra Tambavekar
-- **Roll Number:** 04
+- **Name:** Swati Upadhyay
+- **Roll Number:** 37
 - **Division:** D
-- **Batch:** T10
+- **Batch:** T11
 
 ## Repository Information
 This repository contains all Computer Network Security (CNS) Lab practical assignments.
